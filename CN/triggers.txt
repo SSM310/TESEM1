@@ -1,0 +1,10 @@
+HTTP command prompt trigger:
+python -m http.server 8080
+
+DHCP command prompt trigger:
+disable and renable network adapter
+command prompt:
+ipconfig /release
+ipconfig /renew
+
+
